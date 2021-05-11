@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kerri</h1>
 <h3 align="center">A software developer in training with Makers</h3>
 
-- 🔭 I’m currently working on [A frontend single page webapp in JavaScript](https://github.com/fwill22/notes-app)
+- 🔭 I’m currently working on [A frontend single page webapp in JavaScript, where we build our own testing framework](https://github.com/fwill22/notes-app)
 
-- 🌱 I’m currently learning **JavaScript, Jasmine** studying with [Makers](https://makers.tech/about-us/)
+- 🌱 I’m currently learning **JavaScript & Jasmine** studying with [Makers](https://makers.tech/about-us/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kerrimcm](https://github.com/kerrimcm)
 
