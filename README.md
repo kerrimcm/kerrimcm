@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kerrimcm25@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kerri-mcmahon-280a58158/](https://www.linkedin.com/in/kerri-mcmahon-280a58158/)
+- 📄 Learn more about my experiences on my LinkedIn [https://www.linkedin.com/in/kerri-mcmahon-280a58158/](https://www.linkedin.com/in/kerri-mcmahon-280a58158/)
 
 - 🎤 Fun fact **I'm a singer in a London-based band, Plastic Ghost**
 
