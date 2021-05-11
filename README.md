@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **JavaScript & Jasmine** studying with [Makers](https://makers.tech/about-us/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/kerrimcm](https://github.com/kerrimcm)
+- 👨‍💻 All of my projects are available at [here](https://github.com/kerrimcm?tab=repositories)
 
-- 📝 I regularly write articles on [https://kerrimcm25.medium.com/](https://kerrimcm25.medium.com/)
+- 📝 I regularly write articles on [Medium](https://kerrimcm25.medium.com/)
 
 - 📫 How to reach me **kerrimcm25@gmail.com**
 
-- 📄 Learn more about my experiences on my LinkedIn [https://www.linkedin.com/in/kerri-mcmahon-280a58158/](https://www.linkedin.com/in/kerri-mcmahon-280a58158/)
+- 📄 Learn more about my experiences on my [LinkedIn](https://www.linkedin.com/in/kerri-mcmahon-280a58158/)
 
 - 🎤 Fun fact **I'm a singer in a London-based band, Plastic Ghost**
 
