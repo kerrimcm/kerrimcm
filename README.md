@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kerri</h1>
+<h1 align="center">Hi, I'm Kerri <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
 <h3 align="center">A software developer in training with Makers</h3>
 
 - 🔭 I’m currently working on [A frontend single page webapp in JavaScript, where we build our own testing framework](https://github.com/fwill22/notes-app)
