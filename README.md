@@ -20,6 +20,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerrimcm&" alt="kerrimcm" /></p>
 
-[![Kerri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerrimcm)]
+![Kerri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerrimcm)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerrimcm)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerrimcm)
