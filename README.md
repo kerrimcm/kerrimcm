@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kerri</h1>
-<h3 align="center">A software developer in training with [Makers](https://makers.tech/?utm_term=coding%20bootcamp%20%7C%20Coding&hsa_cam=1110850260&hsa_src=g&hsa_ver=3&hsa_kw=coding%20bootcamp&hsa_tgt=kwd-295419750910&hsa_grp=52744414037&hsa_mt=b&hsa_net=adwords&hsa_acc=7172166340&hsa_ad=436606433492)</h3>
+<h3 align="center">A software developer in training with Makers</h3>
 
 - 🔭 I’m currently working on [A frontend single page webapp in JavaScript](https://github.com/fwill22/notes-app)
 
-- 🌱 I’m currently learning **JavaScript, Jasmine**
+- 🌱 I’m currently learning **JavaScript, Jasmine** studying with [Makers](https://makers.tech/about-us/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kerrimcm](https://github.com/kerrimcm)
 
