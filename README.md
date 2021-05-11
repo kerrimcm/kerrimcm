@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript & Jasmine** studying with [Makers](https://makers.tech/about-us/)
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/kerrimcm?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/kerrimcm?tab=repositories)
 
 - 📝 I regularly write articles on [Medium](https://kerrimcm25.medium.com/)
 
