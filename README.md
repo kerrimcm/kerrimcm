@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kerrimcm25@gmail.com**
 
-- 📄 Learn more about my experiences on my [LinkedIn](https://www.linkedin.com/in/kerri-mcmahon-280a58158/)
+- 📄 Learn more about my experience on [LinkedIn](https://www.linkedin.com/in/kerri-mcmahon-280a58158/)
 
 - 🇿🇦 From Cape Town, South Africa
 
