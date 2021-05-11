@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerrimcm&show_icons=true&locale=en" alt="kerrimcm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerrimcm&" alt="kerrimcm" /></p>
+
+[![Kerri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerrimcm)]
