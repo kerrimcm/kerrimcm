@@ -2,7 +2,7 @@
 
 <h3 align="center">A software developer in training with Makers</h3>
 
-- 🔭 I’m currently working on [A frontend single page webapp in JavaScript, where we build our own testing framework](https://github.com/fwill22/notes-app)
+- 🔭 I’m currently working on a clone of Facebook called 'Acebook' in a group engineering project
 
 - 🌱 I’m currently learning **JavaScript & Jasmine** studying with [Makers](https://makers.tech/about-us/)
 
