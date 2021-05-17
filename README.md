@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a clone of Facebook called 'Acebook' in a group engineering project
 
-- 🌱 I’m currently learning **JavaScript & Jasmine** studying with [Makers](https://makers.tech/about-us/)
+- 🌱 I’m currently learning **Ruby on Rails** studying with [Makers](https://makers.tech/about-us/)
 
 - 💻 All of my projects are available [here](https://github.com/kerrimcm?tab=repositories)
 
