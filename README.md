@@ -2,7 +2,7 @@
 
 <h3 align="center">A software developer in training with Makers</h3>
 
-- 🔭 I’m currently working on a clone of Facebook called 'Acebook' in a group engineering project
+- 🔭 I’m currently working on a [clone of Facebook called 'Acebook' in a group engineering project](https://github.com/ahmad047/acebook-team-smiley-face)
 
 - 🌱 I’m currently learning **Ruby on Rails** studying with [Makers](https://makers.tech/about-us/)
 
