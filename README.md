@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a [solo tech test practicing my code quality, TDD and OO skills](https://github.com/kerrimcm/bank-tech-test)
 
-- 🌱 I’m currently learning **Ruby on Rails** studying with [Makers](https://makers.tech/about-us/)
+- 🌱 I’m currently studying with [Makers](https://makers.tech/about-us/)
 
 - 💻 All of my projects are available [here](https://github.com/kerrimcm?tab=repositories)
 
