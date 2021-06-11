@@ -2,7 +2,7 @@
 
 <h3 align="center">A software developer in training with Makers</h3>
 
-- 🔭 I’m currently working on a [solo tech test practicing my code quality, TDD and OO skills](https://github.com/kerrimcm/bank-tech-test)
+- 🔭 I’m currently working on a [running meet up app built in Rails](https://github.com/kerrimcm/pace)
 
 - 🌱 I’m currently studying with [Makers](https://makers.tech/about-us/)
 
