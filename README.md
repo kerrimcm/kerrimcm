@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kerri <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">A software developer in training with Makers</h3>
+<h3 align="center">A recent Makers graduate and Junior Software Developer</h3>
 
 - 🔭 I’m currently working on a [running meet up app built in Rails](https://github.com/kerrimcm/pace)
 
