@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a [running meet up app built in Rails](https://github.com/kerrimcm/pace)
 
-- 🌱 I’m currently studying with [Makers](https://makers.tech/about-us/)
+- 🌱 Recent [Makers](https://makers.tech/about-us/) graduate, June 2021
 
 - 💻 All of my projects are available [here](https://github.com/kerrimcm?tab=repositories)
 
