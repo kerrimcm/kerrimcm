@@ -2,7 +2,7 @@
 
 <h3 align="center">A recent Makers graduate and Software Developer</h3>
 
-- 🔭 I’m currently practicing my Vanilla JS skills [building a small clone of Twitter which interfaces with APIs](https://github.com/kerrimcm/js-chitter-challenge)
+- 🔭 I’m currently learning a little bit of [Angular](https://github.com/kerrimcm/learning-angular)
 
 - 🌱 Recent [Makers](https://makers.tech/about-us/) graduate, June 2021
 
