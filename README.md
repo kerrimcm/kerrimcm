@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kerri <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h4 align="center">QA Tester/Trainee Frontend Engineer at planet.fans, helping to test and build a fan first participation platform for live music events</h4>
+<h3 align="center">QA Tester/Trainee Frontend Engineer at planet.fans, helping to test and build a fan first participation platform for live music events</h3>
 
 - 🔭 I’m currently learning a little bit of [Angular](https://github.com/kerrimcm/learning-angular)
 
@@ -9,8 +9,6 @@
 - 💻 All of my projects are available [here](https://github.com/kerrimcm?tab=repositories)
 
 - 📝 You might find me writing articles on [Medium](https://kerrimcm25.medium.com/)
-
-- 📫 How to reach me **kerrimcm25@gmail.com**
 
 - 📄 Learn more about my experience on [LinkedIn](https://www.linkedin.com/in/kerri-mcmahon-280a58158/)
 
