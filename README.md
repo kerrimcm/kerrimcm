@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kerri <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">A recent Makers graduate and Software Developer</h3>
+<h3 align="center">QA Tester/Trainee Frontend Engineer at planet.fans, helping to test and build a fan first participation platform for live music events</h3>
 
 - 🔭 I’m currently learning a little bit of [Angular](https://github.com/kerrimcm/learning-angular)
 
