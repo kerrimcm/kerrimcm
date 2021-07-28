@@ -2,8 +2,6 @@
 
 <h3 align="center">QA Tester/Trainee Frontend Engineer at planet.fans, helping to test and build a fan first participation platform for live music events</h3>
 
-- 🔭 I’m currently learning a little bit of [Angular](https://github.com/kerrimcm/learning-angular)
-
 - 🌱 Recent [Makers](https://makers.tech/about-us/) graduate, June 2021
 
 - 💻 All of my projects are available [here](https://github.com/kerrimcm?tab=repositories)
