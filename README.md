@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Kerri <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h2>Hi, I'm Kerri <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">QA Tester/Trainee Frontend Engineer at planet.fans, helping to test a fan first participation platform for live music events</h3>
+<h3>QA Tester/Trainee Frontend Engineer at planet.fans, helping to test a fan first participation platform for live music events</h3>
 
 - 🌱 Recent [Makers](https://makers.tech/about-us/) graduate, June 2021
 
