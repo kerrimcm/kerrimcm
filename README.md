@@ -1,4 +1,4 @@
-<h2>Hi, I'm Kerri <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h2>Hi, I'm Kerri</h2>
 
 <h3>Frontend Developer at planet.fans, helping to build a fan first participation platform for live music events</h3>
 
