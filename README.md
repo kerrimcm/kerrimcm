@@ -1,12 +1,6 @@
 <h2>Hi, I'm Kerri</h2>
 
-<h3>Frontend Developer at planet.fans, helping to build a fan first participation platform for live music events</h3>
-
 - 🌱 [Makers](https://makers.tech/about-us/) graduate, June 2021
-
-- 💻 All of my projects are available [here](https://github.com/kerrimcm?tab=repositories)
-
-- 📝 You might find me writing articles on [Medium](https://kerrimcm25.medium.com/)
 
 - 📄 Learn more about my experience on [LinkedIn](https://www.linkedin.com/in/kerri-mcmahon-280a58158/)
 
